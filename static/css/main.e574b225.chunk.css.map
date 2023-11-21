@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAIA,OACE,cAAe","file":"main.e574b225.chunk.css","sourcesContent":["// iframe {\n//   display: none;\n// }\n\nbutton {\n  cursor: pointer;\n}\n"]}
